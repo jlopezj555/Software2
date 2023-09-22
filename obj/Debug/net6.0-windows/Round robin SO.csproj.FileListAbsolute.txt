@@ -1,0 +1,17 @@
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\bin\Debug\net6.0-windows\Round robin SO.exe
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\bin\Debug\net6.0-windows\Round robin SO.deps.json
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\bin\Debug\net6.0-windows\Round robin SO.runtimeconfig.json
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\bin\Debug\net6.0-windows\Round robin SO.dll
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\bin\Debug\net6.0-windows\Round robin SO.pdb
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.csproj.ResolveComReference.cache
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round_robin_SO.Form1.resources
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.csproj.GenerateResource.cache
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.AssemblyInfoInputs.cache
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.AssemblyInfo.cs
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.csproj.CoreCompileInputs.cache
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.dll
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\refint\Round robin SO.dll
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.pdb
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\Round robin SO.genruntimeconfig.cache
+C:\Users\joels\source\repos\Round robin SO\Round robin SO\obj\Debug\net6.0-windows\ref\Round robin SO.dll
